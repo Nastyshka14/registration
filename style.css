@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.form-group {
+  margin-bottom: 6px;
+}
+
+label {
+  margin-bottom: 3px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+}
